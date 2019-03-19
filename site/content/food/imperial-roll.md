@@ -3,7 +3,7 @@ title: 'Crispy Imperial rolls test . '
 cetegories:
   - testetestestrwegraegregrg
 description: Some Random description
-type: rollls
+type: dinner
 price: '140'
 ---
 
