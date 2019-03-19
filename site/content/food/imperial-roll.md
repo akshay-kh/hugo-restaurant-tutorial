@@ -4,6 +4,6 @@ cetegories:
   - testetestestrwegraegregrg
 description: Some Random description
 type: rollls
-price: '14000000'
+price: '140'
 ---
 
