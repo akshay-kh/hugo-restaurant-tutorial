@@ -1,7 +1,7 @@
 ---
 title: 'Crispy Imperial rolls test . '
 cetegories:
-  - testetestestrwegraegregrg
+  - dinner
 description: Some Random description
 type: dinner
 price: '140'
